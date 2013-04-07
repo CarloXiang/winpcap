@@ -1,0 +1,17 @@
+POST /ace07e0b-b250-4dd6-b9d2-41f83bb8e51c/ HTTP/1.1
+Cache-Control: no-cache
+Connection: Close
+Pragma: no-cache
+Content-Type: application/soap+xml
+User-Agent: WSDAPI
+Content-Length: 733
+Host: 172.17.21.41:5357
+
+HTTP/1.1 200 
+Content-Type: application/soap+xml
+Server: Microsoft-HTTPAPI/2.0
+Date: Wed, 21 Mar 2012 14:06:47 GMT
+Connection: close
+Content-Length: 4015
+
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof" xmlns:un0="http://schemas.microsoft.com/windows/pnpx/2005/10" xmlns:pub="http://schemas.microsoft.com/windows/pub/2005/07"><soap:Header><wsa:To>http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2004/09/transfer/GetResponse</wsa:Action><wsa:MessageID>urn:uuid:f3e94b4a-001c-44a7-a8d7-53a2eaa9d8d2</wsa:MessageID><wsa:RelatesTo>urn:uuid:17327ed3-9b9e-4fbe-8d74-ad2c1107d528</wsa:RelatesTo></soap:Header><soap:Body><wsx:Metadata><wsx:MetadataSection Dialect="http://schemas.xmlsoap.org/ws/2006/02/devprof/ThisDevice"><wsdp:ThisDevice><wsdp:FriendlyName>Microsoft Publication Service Device Host</wsdp:FriendlyName><wsdp:FirmwareVersion>1.0</wsdp:FirmwareVersion><wsdp:SerialNumber>20050718</wsdp:SerialNumber></wsdp:ThisDevice></wsx:MetadataSection><wsx:MetadataSection Dialect="http://schemas.xmlsoap.org/ws/2006/02/devprof/ThisModel"><wsdp:ThisModel><wsdp:Manufacturer>Microsoft Corporation</wsdp:Manufacturer><wsdp:ManufacturerUrl>http://www.microsoft.co

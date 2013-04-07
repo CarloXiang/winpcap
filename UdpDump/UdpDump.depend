@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1331466486 source:e:\workspace\winpcap\udpdump\main.c
+	<pcap.h>
+

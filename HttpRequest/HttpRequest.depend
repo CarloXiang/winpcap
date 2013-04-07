@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1332340590 source:e:\workspace\winpcap\httprequest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pcap.h>
+	"pheader.h"
+
+1332374718 e:\workspace\winpcap\httprequest\pheader.h
+

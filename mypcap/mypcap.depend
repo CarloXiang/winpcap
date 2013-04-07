@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1331293644 source:e:\workspace\winpcap\mypcap\main.cpp
+	<winsock.h>
+	<stdlib.h>
+	<pcap.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1331300757 source:e:\workspace\winpcap\get_device_detail\main.c
+	<pcap.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+
